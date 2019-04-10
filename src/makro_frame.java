@@ -61,7 +61,7 @@ public class makro_frame extends JFrame implements ActionListener,KeyListener, N
 
 
 
-	//comboboxes
+	//OLD VERSION UNUSED
 	String []keys_str = new String[] {"press    'q'","release 'q'","press    'w'","release 'w'","press    'e'","release 'e'",
 			"press    'r'","release 'r'","press    't'","release 't'","press    'y'","release 'y'","press    'u'","release 'u'","press    'i'","release 'i'",
 			"press    'o'","release 'o'","press    'p'","release 'p'","press    'a'","release 'a'","press    's'","release 's'","press    'd'","release 'd'",
